@@ -35,7 +35,8 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
-    "imageResize": true
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
